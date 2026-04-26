@@ -13,3 +13,5 @@ ros2 launch turtlebot3_gazebo empty_world.launch.py
 source /opt/ros/jazzy/setup.bash
 cd /home/josue-robledo/Desktop/TurtleBot
 python3 main_control.py
+
+https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
