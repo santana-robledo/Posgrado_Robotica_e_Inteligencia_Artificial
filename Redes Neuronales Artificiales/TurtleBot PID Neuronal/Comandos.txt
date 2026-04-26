@@ -1,0 +1,15 @@
+# Terminal 1 para abrir Simulador
+
+export LIBGL_ALWAYS_SOFTWARE=1
+source /opt/ros/jazzy/setup.bash
+export TURTLEBOT3_MODEL=waffle
+ros2 launch turtlebot3_gazebo empty_world.launch.py
+
+
+
+
+# Terminal 2 para ejecutar codigo
+
+source /opt/ros/jazzy/setup.bash
+cd /home/josue-robledo/Desktop/TurtleBot
+python3 main_control.py
