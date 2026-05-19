@@ -1,0 +1,5 @@
+disp('Matriz de adyacencia A:')
+disp(A)
+
+disp('Matriz de pesos W0:')
+disp(W0)
