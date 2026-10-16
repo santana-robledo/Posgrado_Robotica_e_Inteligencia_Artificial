@@ -110,6 +110,10 @@ Soy ingeniero en Mecatrónica y estudiante de la Maestría en Ciencias de la Rob
 
 ## Enlaces
 
+## Autor
+
+**Santana Robledo**
+
 - **Perfil de GitHub:** [santana-robledo](https://github.com/santana-robledo)
 - **Repositorio del posgrado:** [Posgrado_Robotica_e_Inteligencia_Artificial](https://github.com/santana-robledo/Posgrado_Robotica_e_Inteligencia_Artificial)
 
